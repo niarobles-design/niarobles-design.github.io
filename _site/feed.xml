@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-30T12:04:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Portfolio Jekyll Theme</title><subtitle>Powered by Jekyll and GitHub Pages</subtitle><author><name>Paul Le</name></author><entry><title type="html">Getting Started</title><link href="http://localhost:4000/getting-started" rel="alternate" type="text/html" title="Getting Started" /><published>2017-01-01T00:00:00+01:00</published><updated>2017-01-01T00:00:00+01:00</updated><id>http://localhost:4000/getting-started</id><content type="html" xml:base="http://localhost:4000/getting-started"><![CDATA[<p>This is a portfolio Jekyll theme built from the ground up, using the <a href="http://devtipsstarterkit.com/">DevTips Starter Kit</a> as a foundation for starting, and following closely the amazing tutorial by <a href="https://www.youtube.com/watch?v=T6jKLsxbFg4&amp;list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P">Travis Neilson over at DevTips</a>. For a guide on how to start a blog or personal website using Jekyll and GitHub Pages, please check out <a href="https://paulle.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages">this article</a>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-30T12:42:44+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Portfolio Jekyll Theme</title><subtitle>Powered by Jekyll and GitHub Pages</subtitle><author><name>Paul Le</name></author><entry><title type="html">My First Post</title><link href="http://localhost:4000/my-first-post" rel="alternate" type="text/html" title="My First Post" /><published>2024-05-30T00:00:00+02:00</published><updated>2024-05-30T00:00:00+02:00</updated><id>http://localhost:4000/my-first-post</id><content type="html" xml:base="http://localhost:4000/my-first-post"><![CDATA[<h4 id="lagrange">Lagrange</h4>
+
+<p>Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.</p>
+
+<p>Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.</p>
+
+<h4 id="millennial">Millennial</h4>
+
+<p>Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.</p>
+
+<p>Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.</p>
+
+<h4 id="jekyll-starter-kit">Jekyll Starter Kit</h4>
+
+<p>The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.</p>
+
+<p>Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.</p>]]></content><author><name>Paul Le</name></author><summary type="html"><![CDATA[Lagrange]]></summary></entry><entry><title type="html">Getting Started</title><link href="http://localhost:4000/getting-started" rel="alternate" type="text/html" title="Getting Started" /><published>2017-01-01T00:00:00+01:00</published><updated>2017-01-01T00:00:00+01:00</updated><id>http://localhost:4000/getting-started</id><content type="html" xml:base="http://localhost:4000/getting-started"><![CDATA[<p>This is a portfolio Jekyll theme built from the ground up, using the <a href="http://devtipsstarterkit.com/">DevTips Starter Kit</a> as a foundation for starting, and following closely the amazing tutorial by <a href="https://www.youtube.com/watch?v=T6jKLsxbFg4&amp;list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P">Travis Neilson over at DevTips</a>. For a guide on how to start a blog or personal website using Jekyll and GitHub Pages, please check out <a href="https://paulle.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages">this article</a>.</p>
 
 <p>Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in <a href="https://lenpaul.github.io/portfolio-jekyll-theme/">the demo site</a>. For a guide on how to deploy a Jekyll site using GitHub Pages, please check out <a href="https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages">this article</a>.</p>
 
@@ -467,20 +483,4 @@ title:
   <li><a href="https://daringfireball.net/projects/markdown/basics">Markdown Basics</a></li>
   <li><a href="https://github.github.com/gfm/">GitHub Flavoured Markdown Spec</a></li>
   <li><a href="https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists">Basic writing and formatting syntax</a></li>
-</ul>]]></content><author><name>Paul Le</name></author><summary type="html"><![CDATA[Markdown Support]]></summary></entry><entry><title type="html">More Jekyll Themes!</title><link href="http://localhost:4000/more-jekyll-themes" rel="alternate" type="text/html" title="More Jekyll Themes!" /><published>2013-01-01T00:00:00+01:00</published><updated>2013-01-01T00:00:00+01:00</updated><id>http://localhost:4000/more-jekyll-themes</id><content type="html" xml:base="http://localhost:4000/more-jekyll-themes"><![CDATA[<h4 id="lagrange">Lagrange</h4>
-
-<p>Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.</p>
-
-<p>Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.</p>
-
-<h4 id="millennial">Millennial</h4>
-
-<p>Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.</p>
-
-<p>Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.</p>
-
-<h4 id="jekyll-starter-kit">Jekyll Starter Kit</h4>
-
-<p>The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.</p>
-
-<p>Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.</p>]]></content><author><name>Paul Le</name></author><summary type="html"><![CDATA[Lagrange]]></summary></entry></feed>
+</ul>]]></content><author><name>Paul Le</name></author><summary type="html"><![CDATA[Markdown Support]]></summary></entry></feed>
