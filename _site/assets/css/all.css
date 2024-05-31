@@ -1,5 +1,5 @@
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
-@import url("https://fonts.googleapis.com/css2?family=Halant&family=Montserrat:wght@700&family=Satisfy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ultra&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -184,21 +184,22 @@ td, th {
   padding: 0;
 }
 
-.montserrat {
-  font-family: "Montserrat", sans-serif;
+.work-sans {
+  font-family: "Work Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.halant-regular {
-  font-family: "Halant", serif;
   font-weight: 400;
   font-style: normal;
 }
 
-.satisfy-regular {
-  font-family: "Satisfy", cursive;
+.work-sans {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ultra-regular {
+  font-family: "Ultra", serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -707,7 +708,7 @@ body {
   background: #fff;
   font-size: 14px;
   line-height: 1.6;
-  font-family: "Halant", serif;
+  font-family: "Work Sans", sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -909,7 +910,8 @@ footer .footer-wrap .social-media nav a:hover {
 }
 body {
   background: linear-gradient(to left, #c6ffdd, #fbd786, #f7797d);
-  font-family: "Halant", serif;
+  font-family: "Work Sans", serif;
+  font-weight: 400;
   font-size: 16px;
 }
 
@@ -919,11 +921,12 @@ body {
 }
 
 a {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
 }
 
 .logo > a {
-  font-family: "Satisfy", cursive;
+  font-family: "Ultra", serif;
 }
 
 @media (max-width: 768px) {

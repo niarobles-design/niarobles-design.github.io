@@ -7,6 +7,6 @@ plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title: "Nia Robles' Studio"
+title: "Nia's Studio"
 description: "Art and Social Media"
 author: "Nia Robles"

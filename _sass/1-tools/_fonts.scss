@@ -1,24 +1,27 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Halant&family=Montserrat:wght@700&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ultra&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 
 // <uniquifier>: Use a unique and descriptive class name
 
-.montserrat {
-  font-family: "Montserrat", sans-serif;
+.work-sans {
+  font-family: "Work Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.halant-regular {
-  font-family: "Halant", serif;
   font-weight: 400;
   font-style: normal;
 }
 
-.satisfy-regular {
-  font-family: "Satisfy", cursive;
+.work-sans {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ultra-regular {
+  font-family: "Ultra", serif;
   font-weight: 400;
   font-style: normal;
 }
+
+
