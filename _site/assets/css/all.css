@@ -612,7 +612,7 @@ td, th {
  * ------------------------------------  */
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-  color: #333;
+  color: #CE5263;
   font-weight: bold;
 }
 
@@ -709,7 +709,7 @@ body {
   font-size: 14px;
   line-height: 1.6;
   font-family: "Work Sans", sans-serif;
-  color: #666;
+  color: black;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
 }
@@ -761,10 +761,10 @@ header .logo {
 }
 header .logo a {
   display: inline-block;
-  color: rgb(0, 0, 0);
+  color: white;
 }
 header .logo a:hover {
-  color: #BD5248;
+  color: #D51473;
 }
 header nav {
   float: right;
@@ -773,12 +773,12 @@ header nav {
 header nav a {
   display: inline-block;
   margin-left: 20px;
-  color: rgb(0, 0, 0);
+  color: white;
   font-size: 24px;
   font-weight: 700;
 }
 header nav a:hover {
-  color: #BD5248;
+  color: #D51473;
 }
 
 @media (max-width: 768px) {
@@ -824,7 +824,7 @@ footer .footer-wrap .social-media nav a {
   font-weight: 700;
 }
 footer .footer-wrap .social-media nav a:hover {
-  color: #BD5248;
+  color: #D51473;
 }
 
 .project-container {
@@ -923,10 +923,12 @@ body {
 a {
   font-family: "Work Sans", sans-serif;
   font-weight: 500;
+  color: white;
 }
 
 .logo > a {
   font-family: "Ultra", serif;
+  color: #97A7BB;
 }
 
 @media (max-width: 768px) {
@@ -940,8 +942,8 @@ a {
 }
 .page-content h1 {
   line-height: 1.5;
-  color: black;
-  font-size: 68px;
+  color: #D51473;
+  font-size: 50px;
   font-weight: 700;
 }
 .page-content p {
@@ -999,7 +1001,7 @@ a {
   color: black;
 }
 .blog-container .blog-unit h1:hover a {
-  color: #BD5248;
+  color: #D51473;
 }
 .blog-container .blog-unit .blog-date {
   display: block;
