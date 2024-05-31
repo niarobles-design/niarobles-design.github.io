@@ -6,4 +6,27 @@ permalink: /about
 
 # Nia Robles
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+## Who am I?
+
+Hi! My name is Nia and I'm a creative designer from Spain. I mainly produce art and creative content. This covers a wide range of works, so here is a list of things I usually do:
+
+- Illustration
+- 2D Animation
+- Character Design
+- Social Media Art and Visual Content
+- Copywriting
+- Community Management
+
+## What's this site about?
+
+This site is about my projects and my thoughts on creative topics: I talk about my process, my workflow, things I'm learning about, and useful resources and tips. It also tells a story: My Journey.
+
+## What are my motivations?
+
+I love connecting with others and feeling part of a community. I love making people laugh, and I feel so accomplished when people feel moved by my creations. Design, art, and content are the tools I found that help me best achieve this, so they naturally and genuinely make me happy.
+
+Video games are my favourite medium, my favourite way of connecting with people, so it goes without saying that my creativity truly thrives when it comes to gaming!
+
+## What do I like?
+
+If you check my site, you'll soon notice how much I LOVE CATS. But other things I love are: video games, books, TV shows, and spending time in nature.
