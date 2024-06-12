@@ -612,7 +612,7 @@ td, th {
  * ------------------------------------  */
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-  color: #CE5263;
+  color: #303C6C;
   font-weight: bold;
 }
 
@@ -629,7 +629,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .large, h2 {
-  font-size: 42px;
+  font-size: 30px;
   line-height: 1.14;
 }
 
@@ -677,17 +677,17 @@ a {
 }
 
 a:hover, a:focus {
-  color: #e3c6b1;
+  color: #F4976C;
 }
 
 /* Selection colors (easy to forget)
  * ------------------------------------  */
 ::selection {
-  background: #f1e2d6;
+  background: #F4976C;
 }
 
 ::-moz-selection {
-  background: #f1e2d6;
+  background: #F4976C;
 }
 
 img::selection {
@@ -764,7 +764,7 @@ header .logo a {
   color: white;
 }
 header .logo a:hover {
-  color: #D51473;
+  color: #D2FDFF;
 }
 header nav {
   float: right;
@@ -778,7 +778,7 @@ header nav a {
   font-weight: 700;
 }
 header nav a:hover {
-  color: #D51473;
+  color: #D2FDFF;
 }
 
 @media (max-width: 768px) {
@@ -824,7 +824,7 @@ footer .footer-wrap .social-media nav a {
   font-weight: 700;
 }
 footer .footer-wrap .social-media nav a:hover {
-  color: #D51473;
+  color: #D2FDFF;
 }
 
 .project-container {
@@ -942,8 +942,8 @@ a {
 }
 .page-content h1 {
   line-height: 1.5;
-  color: #D51473;
-  font-size: 50px;
+  color: #D2FDFF;
+  font-size: 38px;
   font-weight: 700;
 }
 .page-content h2 {
@@ -1004,7 +1004,7 @@ a {
   color: black;
 }
 .blog-container .blog-unit h1:hover a {
-  color: #D51473;
+  color: #D2FDFF;
 }
 .blog-container .blog-unit .blog-date {
   display: block;
