@@ -683,11 +683,11 @@ a:hover, a:focus {
 /* Selection colors (easy to forget)
  * ------------------------------------  */
 ::selection {
-  background: #F4976C;
+  background: #fbe8a6;
 }
 
 ::-moz-selection {
-  background: #F4976C;
+  background: #fbe8a6;
 }
 
 img::selection {
@@ -966,7 +966,7 @@ a {
   display: block;
 }
 .post-container h4 {
-  color: black;
+  color: #303C6C;
   line-height: 1.2;
   margin-bottom: 10px;
   font-weight: 700;
@@ -1001,13 +1001,14 @@ a {
   font-weight: 700;
 }
 .blog-container .blog-unit h1 a {
-  color: black;
+  color: #303C6C;
 }
 .blog-container .blog-unit h1:hover a {
   color: #D2FDFF;
 }
 .blog-container .blog-unit .blog-date {
   display: block;
+  color: white;
   font-size: 14px;
   font-weight: 700;
 }
