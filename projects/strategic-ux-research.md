@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Por un punyado de peluches"
+title: "Strategic UX Research"
 ---
 
 Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem.
