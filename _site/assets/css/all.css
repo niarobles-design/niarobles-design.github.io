@@ -677,17 +677,17 @@ a {
 }
 
 a:hover, a:focus {
-  color: #F4976C;
+  color: #e3c6b1;
 }
 
 /* Selection colors (easy to forget)
  * ------------------------------------  */
 ::selection {
-  background: #fbe8a6;
+  background: #f1e2d6;
 }
 
 ::-moz-selection {
-  background: #fbe8a6;
+  background: #f1e2d6;
 }
 
 img::selection {
