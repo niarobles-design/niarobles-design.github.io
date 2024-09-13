@@ -33,7 +33,7 @@ None of the users use a cinema app to decide what movie they want to watch or to
 
 This suggests they don’t have a direct or convenient way to access this kind of information. Even when they find a movie they’re interested in, they still need to open a cinema app to check its availability and buy the tickets.
 
-> **I don’t use any specific app for the purpose of discovering interesting movies, but I do use a tracking app for the movies and TV shows I watch. Sometimes, the algorithm in this app shows me a good recommendation. It’s not something I actively look for in the app, but it occasionally happens”.**
+> **"I don’t use any specific app for the purpose of discovering interesting movies, but I do use a tracking app for the movies and TV shows I watch. Sometimes, the algorithm in this app shows me a good recommendation. It’s not something I actively look for in the app, but it occasionally happens".**
 
 **Opportunity**: we can provide users with a more centralized experience through our cinema app. Since users need to check movie availability anyway, offering an easy and comfortable experience could make us their first choice for a cinema app.
 

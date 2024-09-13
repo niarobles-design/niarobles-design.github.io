@@ -4,6 +4,7 @@
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6
   color: $headlineColor
+  font-family: 'Quicksand', sans-serif
   font-weight: bold
 
 .gigantic
@@ -80,10 +81,23 @@ body
  ------------------------------------  */
 body
   background: $documentBackgroundColor
-  font-size: 14px
+  font-size: 16px
   line-height: 1.6
-  font-family: 'Work Sans', sans-serif
+  font-family: 'Roboto', sans-serif
   color: $textColor
+  text-align: justify
+
+  -webkit-font-smoothing: antialiased
+  -webkit-text-size-adjust: 100%
+
+blockquote
+  font-family: 'Quicksand', sans-serif
+  font-size: 16px
+  line-height: 1.6
+  color: #EE6E9F
+  padding: 10px 0 10px
+  text-align: justify
+
   -webkit-font-smoothing: antialiased
   -webkit-text-size-adjust: 100%
 
@@ -91,10 +105,10 @@ svg
   +size(100%)
 
 h3
-  @extend %small-bold
+  //@extend %small-bold
   color: $accent-light
   text-align: center
-  padding: 100px 0 30px
+  padding: 10px 0 10px
 
 fieldset
   padding: 0

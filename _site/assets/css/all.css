@@ -1,5 +1,5 @@
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Limelight&family=Poiret+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -184,27 +184,29 @@ td, th {
   padding: 0;
 }
 
-.poiret-one-regular {
-  font-family: "Poiret One", sans-serif;
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
-.limelight-regular {
-  font-family: "Limelight", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.lato-bold {
-  font-family: "Lato", sans-serif;
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-style: normal;
 }
 
-.lato-regular {
-  font-family: "Lato", sans-serif;
+.quicksand-regular {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
   font-weight: 400;
+  font-style: normal;
+}
+
+.quicksand-bold {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
   font-style: normal;
 }
 
@@ -616,7 +618,8 @@ td, th {
  * ------------------------------------  */
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-  color: #303C6C;
+  color: #6665DD;
+  font-family: "Quicksand", sans-serif;
   font-weight: bold;
 }
 
@@ -675,23 +678,23 @@ hr {
 /* Links
  * ------------------------------------  */
 a {
-  color: #c99065;
+  color: #6D9D88;
   text-decoration: none;
   outline: 0;
 }
 
 a:hover, a:focus {
-  color: #e3c6b1;
+  color: #aac6ba;
 }
 
 /* Selection colors (easy to forget)
  * ------------------------------------  */
 ::selection {
-  background: #f1e2d6;
+  background: #c9dad3;
 }
 
 ::-moz-selection {
-  background: #f1e2d6;
+  background: #c9dad3;
 }
 
 img::selection {
@@ -703,17 +706,29 @@ img::-moz-selection {
 }
 
 body {
-  -webkit-tap-highlight-color: #f1e2d6;
+  -webkit-tap-highlight-color: #c9dad3;
 }
 
 /* Basic Styles
  * ------------------------------------  */
 body {
   background: #fff;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.6;
-  font-family: "Work Sans", sans-serif;
-  color: black;
+  font-family: "Roboto", sans-serif;
+  color: #1a1a1a;
+  text-align: justify;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+}
+
+blockquote {
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #EE6E9F;
+  padding: 10px 0 10px;
+  text-align: justify;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
 }
@@ -724,9 +739,9 @@ svg {
 }
 
 h3 {
-  color: #e1c285;
+  color: #83bfb3;
   text-align: center;
-  padding: 100px 0 30px;
+  padding: 10px 0 10px;
 }
 
 fieldset {
@@ -745,13 +760,7 @@ section:nth-child(odd) {
   padding-bottom: 100px;
 }
 section:nth-child(odd) h3 {
-  color: #d7ae5c;
-}
-
-h3 {
-  font-size: 14px;
-  font-weight: 700;
-  text-transform: uppercase;
+  color: #61ae9e;
 }
 
 header {
@@ -765,10 +774,10 @@ header .logo {
 }
 header .logo a {
   display: inline-block;
-  color: white;
+  color: #ee6e9f;
 }
 header .logo a:hover {
-  color: #D2FDFF;
+  color: #fec9c9;
 }
 header nav {
   float: right;
@@ -777,12 +786,12 @@ header nav {
 header nav a {
   display: inline-block;
   margin-left: 20px;
-  color: white;
+  color: #ee6e9f;
   font-size: 24px;
   font-weight: 700;
 }
 header nav a:hover {
-  color: #D2FDFF;
+  color: #fec9c9;
 }
 
 @media (max-width: 768px) {
@@ -828,7 +837,7 @@ footer .footer-wrap .social-media nav a {
   font-weight: 700;
 }
 footer .footer-wrap .social-media nav a:hover {
-  color: #D2FDFF;
+  color: #fec9c9;
 }
 
 .project-container {
@@ -913,8 +922,8 @@ footer .footer-wrap .social-media nav a:hover {
   }
 }
 body {
-  background: linear-gradient(to left, #c6ffdd, #fbd786, #f7797d);
-  font-family: "Lato", sans-serif;
+  background: white;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
 }
@@ -925,14 +934,14 @@ body {
 }
 
 a {
-  font-family: "Poiret One", sans-serif;
+  font-family: "Quicksand", sans-serif;
   font-weight: 400;
-  color: white;
+  color: #9e325d;
 }
 
 .logo > a {
-  font-family: "Limelight", sans-serif;
-  color: #97A7BB;
+  font-family: "Quicksand", sans-serif;
+  color: #9e325d;
 }
 
 @media (max-width: 768px) {
@@ -970,7 +979,7 @@ a {
   display: block;
 }
 .post-container h4 {
-  color: #303C6C;
+  color: #ee6e9f;
   line-height: 1.2;
   margin-bottom: 10px;
   font-weight: 700;
@@ -1005,10 +1014,10 @@ a {
   font-weight: 700;
 }
 .blog-container .blog-unit h1 a {
-  color: #303C6C;
+  color: #6d9d88;
 }
 .blog-container .blog-unit h1:hover a {
-  color: #D2FDFF;
+  color: #fec9c9;
 }
 .blog-container .blog-unit .blog-date {
   display: block;
