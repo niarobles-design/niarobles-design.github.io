@@ -713,22 +713,21 @@ body {
  * ------------------------------------  */
 body {
   background: #fff;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.6;
   font-family: "Roboto", sans-serif;
   color: #1a1a1a;
-  text-align: justify;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
 }
 
 blockquote {
   font-family: "Quicksand", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.6;
   color: #EE6E9F;
   padding: 10px 0 10px;
-  text-align: justify;
+  text-align: center;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
 }
@@ -925,7 +924,7 @@ body {
   background: white;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .site-container {

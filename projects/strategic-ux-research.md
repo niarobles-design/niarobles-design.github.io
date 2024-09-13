@@ -9,8 +9,8 @@ title: "Strategic UX Research"
 
 We want to centralise the user experience on one single app. The app will feature movie trailers so users don’t have to look for them in different apps or websites.
 
-- The user get the information they need fast and comfortably
-- The app gets more engagement to better retain customers and foster loyalty
+- The **user** get the information they need fast and comfortably
+- The **app** gets more engagement to better retain customers and foster loyalty
 
 ### Role and responsibilities
 
@@ -25,10 +25,10 @@ We want to centralise the user experience on one single app. The app will featur
 
 ### User Interviews - Insights
 
-None of the users use a cinema app to decide what movie they want to watch or to discover movies they might be interested in. Instead, they rely on different sources:
+None of the **users** use a cinema app to decide what movie they want to watch or to discover movies they might be interested in. Instead, they **rely on different sources**:
 
-- Social media
-- Recommendations from friends
+- **Social media**
+- Recommendations from **friends**
 - Specialized websites like **Filmaffinity**
 
 This suggests they don’t have a direct or convenient way to access this kind of information. Even when they find a movie they’re interested in, they still need to open a cinema app to check its availability and buy the tickets.
@@ -55,14 +55,14 @@ All the insights gathered from the research helped us get a clear idea of the us
 
 ### Goal Statement
 
-Create a movie trailers app designed to help movie-goers and movie-lovers plan the best cinema experiences by allowing them to easily and comprehensively discover interesting titles available at their cinema.
+Create a movie trailers app designed **to help movie-goers and movie-lovers plan the best cinema experiences** by allowing them to easily and comprehensively discover interesting titles available at their cinema.
 
 {% include image.html image="projects/strategic-ux-research/cinema-app-broad-storyboard.png" %}
 
 ### Effectiveness Metrics
 
-We will measure the app’s effectiveness by analyzing both daily and weekly active users, as well as the duration of their sessions in the app.
+We will measure the app’s effectiveness by analyzing both **daily and weekly active users**, as well as the duration of **their sessions** in the app.
 
-This data will reveal whether users find the app useful for planning their cinema experience by offering them a more centralized experience. It will also help understand if user engagement has increased.
+This data will reveal whether users find the app useful for planning their cinema experience by offering them a more centralized experience. It will also help understand if **user engagement** has increased.
 
-Ultimately, the sales data will give us insights into customer retention.
+Ultimately, the sales data will give us insights into **customer retention**.
