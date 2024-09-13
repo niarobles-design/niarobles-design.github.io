@@ -10,6 +10,7 @@ title: "Strategic UX Research"
 We want to centralise the user experience on one single app. The app will feature movie trailers so users don’t have to look for them in different apps or websites.
 
 - The **user** get the information they need fast and comfortably
+
 - The **app** gets more engagement to better retain customers and foster loyalty
 
 ### Role and responsibilities
