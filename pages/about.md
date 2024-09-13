@@ -10,12 +10,12 @@ permalink: /about
 
 Hi! My name is Nia and I'm a creative designer from Spain. I mainly produce art and creative content. This covers a wide range of works, so here is a list of things I usually do:
 
-- Illustration
-- 2D Animation
-- Character Design
+- UI/UX Design
 - Social Media Art and Visual Content
-- Copywriting
 - Community Management
+- Illustration
+- Character Design
+- Copywriting
 
 ## What's this site about?
 
