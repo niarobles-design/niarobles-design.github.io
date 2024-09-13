@@ -3,54 +3,66 @@ layout: post
 title: "Strategic UX Research"
 ---
 
-## User needs exploration through interviews for the development of a new product: a movie trailers app for a cinema
+## Create an app for a cinema that features movie trailers to help users discover interesting new and upcoming releases.
 
-We want to develop an app for a cinema to improve the UX for its customers, ensuring it becomes their first choice for planning a trip to the movies.
+### Goal
 
-- [Introduction: Product and Audience](#introduction-product-and-audience)
-- [Research Methods](#research-methods)
-- [Interviews](#interviews)
-- [Personas](#personas)
-- [User Pain Points](#user-pain-points)
-- [Personas](#personas)
+We want to centralise the user experience on one single app. The app will feature movie trailers so users don’t have to look for them in different apps or websites.
 
-### Introduction: Product and Audience
+- The user get the information they need fast and comfortably
+- The app gets more engagement to better retain customers and foster loyalty
 
-The current app allows users to buy tickets, pick seats and see the screening catalog.
+### Role and responsibilities
 
-We came up with the idea of improving the app to help users choose what movie to watch. To achieve this, we started working on the idea of including movie trailers in the app so that users can easily access more information about the movies in the catalog.
+- User research
+- User experience exploration
+- Product strategy
+- Product storyboards and sketches
+- Competitive audit
+- User flows
 
-- **Problem statement**: Create a movie trailers app for a cinema
-- **Audience**: Cinema customers
+## Research
 
-{% include image.html image="projects/strategic-ux-research/experience-comic.jpg" %}
+### User Interviews - Insights
 
-### Research Methods
+None of the users use a cinema app to decide what movie they want to watch or to discover movies they might be interested in. Instead, they rely on different sources:
 
-We **conducted interviews** with 5 users to better understand their needs as cinema customers. We wanted to get a clearer view of both the positive and negative aspects of their current experience and what we can build to offer them a better one.
+- Social media
+- Recommendations from friends
+- Specialized websites like **Filmaffinity**
 
-**At this point, our main goals were to determine if our movie trailers feature would actually improve their experience and identify any other pain points we could address.**
+This suggests they don’t have a direct or convenient way to access this kind of information. Even when they find a movie they’re interested in, they still need to open a cinema app to check its availability and buy the tickets.
 
-{% include image.html image="projects/strategic-ux-research/research.jpg" %}
+> **I don’t use any specific app for the purpose of discovering interesting movies, but I do use a tracking app for the movies and TV shows I watch. Sometimes, the algorithm in this app shows me a good recommendation. It’s not something I actively look for in the app, but it occasionally happens”.**
 
-### Interviews
+**Opportunity**: we can provide users with a more centralized experience through our cinema app. Since users need to check movie availability anyway, offering an easy and comfortable experience could make us their first choice for a cinema app.
 
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem.
+### Empathy map
 
-### Personas
+{% include image.html image="projects/strategic-ux-research/cinema-app-empathy-map.png" %}
 
-**Based on the interviews, we were able to create 2 personas that represents 2 different user groups.**
+### User persona
 
-Building personas helped us maintain our focus on user needs. We didn't want to push the movie trailers feature just because it was our main idea for this project; we wanted to ensure the movie trailers feature was truly key for the user.
+{% include image.html image="projects/strategic-ux-research/cinema-app-persona.png" %}
 
-### User Pain Points
+## Solution exploration and strategy
 
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem.
+All the insights gathered from the research helped us get a clear idea of the user experience:
 
-### Personas
+**The user needs an easy and comprehensive way of discovering interesting titles available at their cinema**
 
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem.
+{% include image.html image="projects/strategic-ux-research/experience-comic.png" %}
 
-### User Story
+### Goal Statement
 
-Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+Create a movie trailers app designed to help movie-goers and movie-lovers plan the best cinema experiences by allowing them to easily and comprehensively discover interesting titles available at their cinema.
+
+{% include image.html image="projects/strategic-ux-research/cinema-app-broad-storyboard.png" %}
+
+### Effectiveness Metrics
+
+We will measure the app’s effectiveness by analyzing both daily and weekly active users, as well as the duration of their sessions in the app.
+
+This data will reveal whether users find the app useful for planning their cinema experience by offering them a more centralized experience. It will also help understand if user engagement has increased.
+
+Ultimately, the sales data will give us insights into customer retention.
