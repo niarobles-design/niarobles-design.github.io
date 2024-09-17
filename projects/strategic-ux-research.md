@@ -67,3 +67,9 @@ We will measure the app’s effectiveness by analyzing both **daily and weekly a
 This data will reveal whether users find the app useful for planning their cinema experience by offering them a more centralized experience. It will also help understand if **user engagement** has increased.
 
 Ultimately, the sales data will give us insights into **customer retention**.
+
+## Ideation
+
+### Sketches
+
+{% include image.html image="projects/strategic-ux-research/cinema-app-crazy-8-ideas.png" %}
