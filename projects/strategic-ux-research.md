@@ -72,6 +72,15 @@ Ultimately, the sales data will give us insights into **customer retention**.
 
 ### Sketches
 
+#### Brainstorming
+
 {% include image.html image="projects/strategic-ux-research/cinema-app-crazy-8-ideas.png" %}
+
+### Userflow
+
+{% include image.html image="projects/strategic-ux-research/cinema-app-userflow.jpg" %}
+
+#### Wireframes
+
 {% include image.html image="projects/strategic-ux-research/cinema-app-wireframe-1.jpg" %}
 {% include image.html image="projects/strategic-ux-research/cinema-app-wireframe-2.jpg" %}
