@@ -42,3 +42,7 @@ We supported the campaing by publishing organic content about different herbs an
 To encourage participation, I also organized a challenge where I recorded my self drawing one cat for every raffle ticket sold.
 
 {% include instagramPlayer.html id=page.instagramId %}
+
+We successfully reached our goal of selling 100 tickets and completed the challenge.
+
+{% include image.html image="projects/social-media-management/cat-challenge.jpg" %}
