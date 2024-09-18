@@ -1,4 +1,5 @@
 ---
+instagramId: C8ylukkOVxX
 layout: post
 title: "Social Media Management"
 ---
@@ -37,3 +38,5 @@ We supported the campaing by publishing organic content about different herbs an
 {% include image.html image="projects/social-media-management/jardin-aromatico-beneficioso-gatos.png" %}
 
 To encourage participation, I also organized a challenge where I recorded my self drawing one cat for every raffle ticket sold.
+
+{% include instagramPlayer.html id=page.instagramId %}
