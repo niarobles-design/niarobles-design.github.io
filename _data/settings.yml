@@ -15,8 +15,6 @@ projects:
   - { name: "Strategic UX Research", url: "strategic-ux-research" }
   - { name: "Social Media Management", url: "social-media-management" }
   - { name: "Content Creation", url: "content-creation" }
-  - { name: "Project Four", url: "proj-4" }
-  - { name: "Project Five", url: "proj-5" }
 
 #-------------------------------
 # Contact Section
