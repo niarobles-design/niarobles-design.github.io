@@ -10,6 +10,8 @@ title: "Social Media Management"
 
 {% include image.html image="projects/social-media-management/feed-artistico-aesthetic-instagram.png" %}
 
+This is how our feed looks now. With the new calendar we experimented with different aesthetics and designs for the posts until we developed a more consistent style.
+
 ### Reach Increase
 
 {% include image.html image="projects/social-media-management/instagram-metrics.png" %}
