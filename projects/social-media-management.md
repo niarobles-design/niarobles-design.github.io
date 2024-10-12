@@ -18,9 +18,9 @@ This is how our feed looks now. With the new calendar we experimented with diffe
 
 Since our first publication on June 11th, 2024, following the new calendar and branding adjustments we have:
 
-- Increased our reach by a 566,6%
+- Increased our reach by a 670.1%
 
-- Boosted user interactions by a 113,4%
+- Boosted user interactions by a 366.7%
 
 **We have been focusing on organic growth.**
 Our goal is to gain more loyal followers and expand our reach, so we have reduced our CTAs and click encouragment.
@@ -39,7 +39,7 @@ We supported the campaing by publishing organic content about different herbs an
 
 {% include image.html image="projects/social-media-management/jardin-aromatico-beneficioso-gatos.jpg" %}
 
-To encourage participation, I also organized a challenge where I recorded my self drawing one cat for every raffle ticket sold.
+To encourage participation, I also organized a challenge where I recorded myself drawing one cat for every raffle ticket sold.
 
 {% include instagramPlayer.html id=page.instagramId %}
 
