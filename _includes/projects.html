@@ -1,13 +1,62 @@
 <section>
+  <nav class="index-container" id="index">
+    <a href="#art-design">Art & Design</a>
+    <a href="#coding">Coding</a>
+    <a href="#ux-ui">UX/UI</a>
+    <a href="#social-media">Social Media</a>
+  </nav>
   <div class="project-container">
-    {% for project in site.data.settings.projects %}
+    {% assign projects = site.data.settings.projects | where_exp: "project", "project.category contains 'art-design'" %}
+    <h2 id="art-design">Art & Design</h2>
+    {% for project in projects %}
       <a href="{{ site.github.url }}/projects/{{ project.url }}">
         <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg)">
           <div class="project-overlay">
             <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+            <p>{{ project.skills }}</p>
           </div>
         </div>
       </a>
     {% endfor %}
+    <a class="go-back-btn" href="#header">Go up!</a>
+    {% assign projects = site.data.settings.projects | where_exp: "project", "project.category contains 'coding'" %}
+    <h2 id="coding">Coding</h2>
+    {% for project in projects %}
+      <a href="{{ site.github.url }}/projects/{{ project.url }}">
+        <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg)">
+          <div class="project-overlay">
+            <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+            <p>{{ project.skills }}</p>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+    <a class="go-back-btn" href="#header">Go up!</a>
+    {% assign projects = site.data.settings.projects | where_exp: "project", "project.category contains 'UX/UI'" %}
+    <h2 id="ux-ui">UX/UI</h2>
+    {% for project in projects %}
+      <a href="{{ site.github.url }}/projects/{{ project.url }}">
+        <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg)">
+          <div class="project-overlay">
+            <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+            <p>{{ project.skills }}</p>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+    <a class="go-back-btn" href="#header">Go up!</a>
+    {% assign projects = site.data.settings.projects | where_exp: "project", "project.category contains 'social-media'" %}
+    <h2 id="social-media">Social Media</h2>
+    {% for project in projects %}
+      <a href="{{ site.github.url }}/projects/{{ project.url }}">
+        <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg)">
+          <div class="project-overlay">
+            <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+            <p>{{ project.skills }}</p>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+    <a class="go-back-btn" href="#header">Go up!</a>
   </div>
 </section>

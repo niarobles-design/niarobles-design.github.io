@@ -2,7 +2,12 @@
   max-width: 750px
   margin: 0px auto 0px
   padding: 30px
+  display: flex
+  flex-direction: column
+  align-content: center
   +clearfix
+  .go-back-btn
+    align-self: flex-end
   .project-unit
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
     cursor: pointer
@@ -19,20 +24,27 @@
     .project-overlay
       +position(absolute, 100% 0px null 0px)
       height: 100%
-      background: fade-out(#333, 0.5)
+      background: fade-out(#5fa1a2, 0.05)
       text-align: center
       //+transition
       +display(flex)
+      +flex-direction(column)
       +align-items(center)
-      +justify-content(space-around)
+      +justify-content(center)
       strong
         display: block
-        padding: 20px
+        padding: 5px
         color: white
         line-height: 1.2
         font:
           size: 24px
+          weight: bold
+      p
+        color: white
+        font:
+          size: 24px
           weight: 300
+
     &:hover .project-overlay
       +position(absolute, 0px 0px null 0px)
 

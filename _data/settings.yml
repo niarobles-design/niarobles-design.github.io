@@ -12,9 +12,64 @@ menu:
 # Projects Section
 
 projects:
-  - { name: "Strategic UX Research", url: "strategic-ux-research" }
-  - { name: "Social Media Management", url: "social-media-management" }
-  - { name: "Content Creation", url: "content-creation" }
+  - {
+      name: "Strategic UX Research",
+      url: "strategic-ux-research",
+      category: UX/UI,
+      skills: "Research,
+        Wireframes,
+        Figma",
+    }
+  - {
+      name: "Social Media Management",
+      url: "social-media-management",
+      category: social-media,
+      skills: "Instagram,
+        Organic Growth,
+        Content Creation",
+    }
+  - {
+      name: "Content Creation",
+      url: "content-creation",
+      category: social-media,
+    }
+  - {
+      name: "Por un punyado de peluches",
+      url: "por-un-punyado-de-peluches",
+      category: art-design,
+      skills: "Characters, Props, Design, Color Theory",
+    }
+  - {
+      name: "Cute illustrations",
+      url: "cute-illustrations",
+      category: art-design,
+      skills: "Color Theory,
+        Composition",
+    }
+  - {
+      name: "Awaq ONGD: Logo and banner",
+      url: "awaq-ongd-logo-and-banner",
+      category: art-design,
+      skills: "Illustrator,
+        Color Theory,
+        Branding",
+    }
+  - {
+      name: "Advice Generator",
+      url: "advice-generator",
+      category: coding,
+      skills: "React, Flexbox, API Consuming",
+    }
+  - {
+      name: "Sunnyside Agency Landing Page",
+      url: "sunnyside-agency-landing-page",
+      category: coding,
+      skills: "Semantic HTML5 Markup,
+        Flexbox,
+        CSS Grid,
+        JavaScript,
+        Responsive Design",
+    }
 
 #-------------------------------
 # Contact Section
