@@ -9,7 +9,7 @@ Awaq ONGD is an organization that promotes initiatives to heal nature through th
 
 - I was asked to design a logo that shows a link between nature and technology.
 
-{% include image.html image="projects/awaq-ongd-logo-and-banner/logo_final_naranja.png" text="Orange final logo" %}
+{% include image.html image="projects/awaq-ongd-logo-and-banner/logo_final_naranja.svg" text="Orange final logo" %}
 {% include image.html image="projects/awaq-ongd-logo-and-banner/logo-variations.png" text="Logo variations with medium contrast" %}
 
 ### My process
