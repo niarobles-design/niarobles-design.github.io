@@ -3,7 +3,7 @@ layout: post
 title: "Strategic UX Research"
 ---
 
-## Create an app for a cinema that features movie trailers to help users discover interesting new and upcoming releases.
+## Cinema app that features movie trailers to help users discover interesting new and upcoming releases.
 
 ### Goal
 
@@ -40,11 +40,11 @@ This suggests they don’t have a direct or convenient way to access this kind o
 
 ### Empathy map
 
-{% include image.html image="projects/strategic-ux-research/cinema-app-empathy-map.png" %}
+{% include image.html image="projects/strategic-ux-research/cinema-app-empathy-map.png" text="Empathy map" %}
 
 ### User persona
 
-{% include image.html image="projects/strategic-ux-research/cinema-app-persona.png" %}
+{% include image.html image="projects/strategic-ux-research/cinema-app-persona.png" text="Persona" %}
 
 ## Solution exploration and strategy
 
@@ -52,13 +52,13 @@ All the insights gathered from the research helped us get a clear idea of the us
 
 **The user needs an easy and comprehensive way of discovering interesting titles available at their cinema**
 
-{% include image.html image="projects/strategic-ux-research/experience-comic.png" %}
+{% include image.html image="projects/strategic-ux-research/experience-comic.png" text="Storyboard" %}
 
 ### Goal Statement
 
 Create a movie trailers app designed **to help movie-goers and movie-lovers plan the best cinema experiences** by allowing them to easily and comprehensively discover interesting titles available at their cinema.
 
-{% include image.html image="projects/strategic-ux-research/cinema-app-broad-storyboard.png" %}
+{% include image.html image="projects/strategic-ux-research/cinema-app-broad-storyboard.png" text="Storyboard" %}
 
 ### Effectiveness Metrics
 
@@ -74,18 +74,18 @@ Ultimately, the sales data will give us insights into **customer retention**.
 
 #### Brainstorming
 
-{% include image.html image="projects/strategic-ux-research/cinema-app-crazy-8-ideas.png" %}
+{% include image.html image="projects/strategic-ux-research/crazy-8-brainstorm.jpg" text="Brainstorming" %}
 
 ### Userflow
 
-{% include image.html image="projects/strategic-ux-research/cinema-app-userflow.jpg" %}
+{% include image.html image="projects/strategic-ux-research/cinema-app-userflow.jpg" text="Userflow" %}
 
 #### Wireframes
 
-{% include image.html image="projects/strategic-ux-research/wireframe-1.jpg" %}
+{% include image.html image="projects/strategic-ux-research/wireframe-1.jpg" text="Wireframe" %}
 
-{% include image.html image="projects/strategic-ux-research/wireframe-2.jpg" %}
+{% include image.html image="projects/strategic-ux-research/wireframe-2.jpg" text="Wireframe" %}
 
 #### Interactive Prototype
 
-{% include image.html image="projects/strategic-ux-research/prototype.jpg" %}
+{% include image.html image="projects/strategic-ux-research/prototype.jpg" url="https://www.figma.com/proto/Xx0nYQw4PxpcAIo8IyIAXj/Prototipo-App-de-Cine?node-id=1-4&t=EbpGNedpYhWvZN6u-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4" %}

@@ -32,6 +32,10 @@ projects:
       name: "Content Creation",
       url: "content-creation",
       category: social-media,
+      skills: "Graphic design,
+        Photoshop,
+        Research,
+        Branding",
     }
   - {
       name: "Por un punyado de peluches",
