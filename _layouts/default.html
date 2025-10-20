@@ -10,6 +10,7 @@
     <meta name="description" content="{{ site.data.settings.seo.description }}">
     <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
     <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+    <meta name="google-site-verification" content="DNxF641MlgOTLaAWhXAjVfV_PTwbrKjOw3wpEFAS7Pc" />
     <title>
       {% if page.title == "Home" %}
         {{ site.title }}
@@ -32,6 +33,16 @@
     {% include analytics.html %}
     <!-- Use Jekyll SEO plugin -->
     {% seo %}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E69J2N8GJ3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-E69J2N8GJ3');
+      </script>
+
   </head>
   <body>
     <div class="site-container">
